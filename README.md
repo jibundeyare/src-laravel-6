@@ -9,3 +9,8 @@ Voici le cours qui correspond à ce repo : [https://github.com/jibundeyare/cours
     cp .env.example .env
     php artisan key:generate --ansi
 
+## Run
+
+    php artisan serve
+
+[http://localhost:8000](http://localhost:8000)
