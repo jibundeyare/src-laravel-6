@@ -4,8 +4,8 @@ Voici le cours qui correspond à ce repo : [https://github.com/jibundeyare/cours
 
 ## Install
 
-    git clone https://github.com/jibundeyare/src-laravel.git
-    cd src-laravel
+    git clone https://github.com/jibundeyare/src-laravel-6.git
+    cd src-laravel-6
     cp .env.example .env
     php artisan key:generate --ansi
 
