@@ -13,4 +13,4 @@ Voici le cours qui correspond à ce repo : [https://github.com/jibundeyare/cours
 
     php artisan serve
 
-[http://localhost:8000](http://localhost:8000)
+[http://127.0.0.1:8000](http://127.0.0.1:8000)
