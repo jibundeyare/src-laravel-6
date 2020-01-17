@@ -7,7 +7,11 @@ Voici le cours qui correspond à ce repo : [https://github.com/jibundeyare/cours
     git clone https://github.com/jibundeyare/src-laravel-6.git
     cd src-laravel-6
     cp .env.example .env
+
+Configurez votre fichier `.env`.
+
     php artisan key:generate --ansi
+    php artisan migrate
 
 ## Run
 

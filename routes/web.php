@@ -15,6 +15,9 @@ Route::get('/', 'MainController@index')->name('main.index');
 Route::get('/contact', 'MainController@contact')->name('main.contact');
 Route::get('/recherche', 'SearchController@index')->name('search.index');
 
+// resource
+Route::resource('foo', 'FooController');
+
 // /escales
 // /trajets
 
